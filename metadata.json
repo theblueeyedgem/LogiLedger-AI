@@ -1,0 +1,6 @@
+{
+  "name": "LogiLedger",
+  "description": "Logistics hub and calculation engine that processes gross receipts, commissions, and transport deductions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
